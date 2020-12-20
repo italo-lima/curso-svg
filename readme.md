@@ -1,9 +1,5 @@
 # Curso de SVG
 
-> Esse repositório servirá para armazenar todo o conteúdo passado durante o curso de SVG.
-
-## Ementa
-
 - Introdução ao SVG
     - Introdução do Curso
     - História
