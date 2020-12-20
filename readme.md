@@ -74,16 +74,3 @@
     - Projeto Awesome-SVG e outros
     - Agradecimentos
 
-## Certificado
-
-Todos os alunos que terminarem o curso irão receber um certificado de conclusão
-
-## Compra
-
-Se você já curtiu a ementa e/ou conhece o meu trabalho e quer me apoiar. 
-
-[Link para compra](http://www.eventick.com.br/curso-de-svg)
-
-### Contato
-
-Qualquer dúvida ou curiosidade, é só mandar um email para willianjustenqui@gmail.com ou então falar comigo através de qualquer rede social. Até mesmo uma issue aqui nesse repositório =)
