@@ -2,16 +2,6 @@
 
 > Esse repositório servirá para armazenar todo o conteúdo passado durante o curso de SVG.
 
-## Objetivo
-
-O curso tem como objetivo passar desde os conceitos básicos do SVG até os mais avançados, permitindo criar basicamente o que se quiser com SVG. O curso será desenvolvido em pequenos módulos com vídeos curtos, facilitando assim o aprendizado e o desenvolvimento do aluno, visando sempre uma didática simples, concisa e bastante aplicada a prática de trabalho.
-
-Existirão alguns projetos ao decorrer do curso, para aplicarmos os conceitos aprendidos, fazendo com que o aluno perceba sua evolução e também comece a trabalhar mais em sua parte criativa e com código.
-
-## Instrutor
-
-Olá! Eu sou Willian. Atualmente Freelance Web Engineer, onde ajudo a criar novas experiências e tendências para Web através de vários projetos no Brasil e fora dele. Já trabalhei também em empresas como a Globo.com, HUGE e Queremos, sempre focando na qualidade e melhor entrega para o usuário. Escrevo bastante no meu blog, falando sobre SVG, CSS, JS e minhas experiências como desenvolvedor.
-
 ## Ementa
 
 - Introdução ao SVG
